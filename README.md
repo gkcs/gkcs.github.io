@@ -4,6 +4,9 @@ This project is contains data structures and algorithms relevant to competitive 
 
 The package src/videos contains all code relevant to the youtube videos on https://www.youtube.com/channel/UCRPMAqdtSgd0Ipeef7iFsKw
 
+My Quora account has answers for FAQs for Competitive Programming.
+https://www.quora.com/profile/Gaurav-Sen-6
+
 Feel free to contribute, fork and discuss the code here on Github, the channel or Facebook (https://www.facebook.com/gkcs0).
 
 Cheers!
